@@ -4,4 +4,4 @@ Goal: Binary classifier using IMDB dataset to profile most popular Netflix title
 
 Outcome: IMDB dataset features are poor indicators of Netflix catalog. PCA used to identify features to exclude even further, did not perform significantly better. Achieved greater understanding of the process to evaluate classifier performance measures and parameters using grid search. Achieved greater understanding of benefits in organizing classes, functions, and parameters.
 
-Next steps: Tackle a larger dataset that intuitively should contain more features with stronger correlation in order to motivate value in spending more time evaluating multiple training models and tuning models. Possibly attempt increasing complexity of training model, although still motivated by hardware limitations.
+Next steps: Revisit this problem using k-NN. Tackle a larger dataset that intuitively should contain more features with stronger correlation in order to motivate value in spending more time evaluating multiple training models and tuning models. Possibly attempt increasing complexity of training model, although still motivated by hardware limitations.
