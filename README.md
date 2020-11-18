@@ -8,4 +8,4 @@ Next steps: Revisit this problem using k-NN. Plot different datapoints for more 
 
 Project05: NY housing
 
-Placeholder for current project integrating DOB and OSM data to aid in purchasing a home.
+Placeholder for current project integrating NYC Dept of Buildings and Open Street Map data to aid in purchasing a home.
