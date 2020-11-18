@@ -7,4 +7,5 @@ Outcome: IMDB dataset features are poor indicators of Netflix catalog. PCA used 
 Next steps: Revisit this problem using k-NN. Plot different datapoints for more apriori insight. Alternative: Tackle a larger dataset that intuitively should contain more features with stronger correlation in order to motivate value in spending more time evaluating multiple training models and tuning models. Possibly attempt increasing complexity of training model, although still motivated by hardware limitations.
 
 Project05: NY housing
+
 Placeholder for current project integrating DOB and OSM data to aid in purchasing a home.
